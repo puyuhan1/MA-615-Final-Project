@@ -1,0 +1,916 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2101</field>
+            <field name="Variant">Medium</field>
+            <field name="Value"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2100</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9674</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2099</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9708</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2098</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9749</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2097</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9826</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2096</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.991</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2095</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0016</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2094</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0142</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2093</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0199</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2092</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0311</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2091</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0352</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2090</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0487</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2089</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0582</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2088</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0591</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2087</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0656</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2086</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0813</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2085</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.086</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2084</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0936</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2083</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0978</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2082</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1119</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2081</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1052</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2080</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1169</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2079</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.132</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2078</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.135</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2077</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1458</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2076</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1477</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2075</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1604</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2074</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1768</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2073</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1914</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2072</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2007</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2071</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2195</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2070</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2275</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2069</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2398</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2068</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2532</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2067</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2681</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2066</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2947</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2065</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.302</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2064</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3155</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2063</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3264</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2062</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3462</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2061</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3591</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2060</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3779</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2059</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3894</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2058</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4165</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2057</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4248</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2056</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4406</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2055</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4623</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2054</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4692</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2053</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5034</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2052</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.511</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2051</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5203</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2050</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5502</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2049</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5568</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2048</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5759</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2047</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5975</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2046</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6141</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2045</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6344</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2044</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6615</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2043</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.668</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2042</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6806</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2041</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7027</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2040</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7207</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2039</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7378</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2038</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7676</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2037</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7835</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2036</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8021</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2035</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8222</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2034</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8414</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2033</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8618</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2032</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8873</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2031</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9074</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2030</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9316</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2029</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9569</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2028</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.975</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2027</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9939</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2026</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0264</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2025</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0542</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2024</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.085</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1047</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1439</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2021</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1635</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2020</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1881</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2019</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1988</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2018</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.209</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2017</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1864</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2016</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.195</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2015</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.217</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2014</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.2754</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2013</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.3547</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2012</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4671</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2011</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4779</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2010</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4898</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2009</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.503</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2008</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.5493</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2007</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6017</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2006</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.717</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2005</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6318</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2004</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6202</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2003</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.642</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2002</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6938</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2001</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.7438</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">2000</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8067</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1999</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8874</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1998</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9565</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1997</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9974</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1996</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0193</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1995</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0242</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1994</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0341</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1993</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0415</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1992</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9996</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1991</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9509</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1990</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9105</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1989</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.925</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1988</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9565</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1987</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9714</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1986</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.964</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1985</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9393</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1984</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9014</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1983</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8585</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1982</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8132</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1981</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.7476</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1980</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6772</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1979</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.602</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1978</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.5474</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1977</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4991</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1976</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.475</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1975</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4977</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1974</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.5578</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1973</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1972</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.7165</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1971</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8441</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1970</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9382</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1969</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0334</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1968</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.1246</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1967</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.2232</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1966</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.3487</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1965</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.4259</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1964</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.5091</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1963</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.5785</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1962</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.6474</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1961</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.7147</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1960</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.7775</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1959</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.8472</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1958</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.8983</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1957</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.9606</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1956</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.012</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1955</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.069</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1954</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.1349</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1953</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.1881</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1952</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.2545</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1951</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.3169</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year(s)">1950</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.3928</field>
+        </record>
+    </data>
+</ROOT>

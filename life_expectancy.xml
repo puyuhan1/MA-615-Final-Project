@@ -1,0 +1,916 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2101</field>
+            <field name="Variant">Medium</field>
+            <field name="Value"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2100</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">75.11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2099</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.967</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2098</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.8156</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2097</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.6652</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2096</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.5203</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2095</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.358</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2094</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.2181</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2093</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">74.069</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2092</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.9248</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2091</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.7815</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2090</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.6228</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2089</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.4841</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2088</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.3484</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2087</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.2035</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2086</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">73.0618</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2085</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.9195</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2084</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.7788</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2083</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.6327</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2082</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.4947</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2081</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.356</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2080</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.2066</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2079</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">72.0659</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2078</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.9356</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2077</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.7986</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2076</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.665</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2075</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.5245</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2074</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.3804</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2073</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2072</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">71.1106</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2071</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.9815</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2070</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.851</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2069</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.7138</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2068</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.5877</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2067</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.4595</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2066</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.3178</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2065</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.1868</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2064</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">70.0672</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2063</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.9348</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2062</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.8001</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2061</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.6687</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2060</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.5412</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2059</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.4078</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2058</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.2779</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2057</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.1355</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2056</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">69.004</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2055</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.8713</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2054</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.7458</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2053</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.6077</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2052</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.4728</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2051</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.339</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2050</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.1979</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2049</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">68.0634</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2048</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.9173</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2047</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.7812</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2046</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.6526</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2045</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.5148</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2044</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.3712</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2043</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.2282</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2042</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">67.086</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2041</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.9467</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2040</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.8053</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2039</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.6601</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2038</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.514</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2037</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.3736</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2036</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.2233</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2035</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">66.0816</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2034</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.9281</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2033</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.7799</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2032</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.6299</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2031</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.4847</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2030</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.332</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2029</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.1823</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2028</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">65.0243</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2027</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.8641</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2026</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.6972</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2025</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.5353</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2024</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.3661</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.1878</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">64.0136</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2021</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">63.617</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2020</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">63.4367</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2019</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">63.4845</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2018</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">63.2337</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2017</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">62.988</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2016</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">62.7018</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2015</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">62.269</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2014</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.8074</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2013</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.2314</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2012</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.7152</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2011</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.2398</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2010</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.6402</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2009</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.1233</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2008</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.833</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2007</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.5303</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2006</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.3785</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2005</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.1613</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2004</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.072</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2003</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.0951</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2002</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.1807</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2001</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.2777</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">2000</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.7323</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1999</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.8032</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1998</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.2238</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1997</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.644</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1996</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.5041</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1995</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3214</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1994</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.4626</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1993</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3376</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1992</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.2233</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1991</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3031</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1990</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3557</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1989</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3999</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1988</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3799</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1987</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.386</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1986</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.4943</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1985</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.5913</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1984</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.7024</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1983</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.8364</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1982</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.878</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1981</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.871</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1980</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.5522</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1979</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.5383</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1978</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.5222</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1977</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.463</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1976</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">61.3595</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1975</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.9266</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1974</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.8636</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1973</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.5291</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1972</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.4491</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1971</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.3413</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1970</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">60.0421</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1969</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.9719</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1968</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.8236</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1967</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.6621</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1966</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.2627</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1965</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">59.2877</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1964</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.9969</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1963</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.9021</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1962</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.8619</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1961</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.6652</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1960</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.5724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1959</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.4856</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1958</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.2831</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1957</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">58.2183</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1956</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">57.9245</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1955</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">57.8113</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1954</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">57.5393</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1953</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">57.3187</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1952</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">57.0751</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1951</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">56.7664</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year(s)">1950</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">56.6585</field>
+        </record>
+    </data>
+</ROOT>
