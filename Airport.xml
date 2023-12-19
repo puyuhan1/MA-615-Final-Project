@@ -1,0 +1,85 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2021</field>
+            <field name="Value">255</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2020</field>
+            <field name="Value">335</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2019</field>
+            <field name="Value">1351</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2018</field>
+            <field name="Value">1023</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2017</field>
+            <field name="Value">842</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2016</field>
+            <field name="Value">862</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2015</field>
+            <field name="Value">707</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2014</field>
+            <field name="Value">612</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2013</field>
+            <field name="Value">96</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2012</field>
+            <field name="Value">116</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2011</field>
+            <field name="Value">399</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2010</field>
+            <field name="Value">342</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Year">2009</field>
+            <field name="Value">1998</field>
+            <field name="Value Footnotes"></field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote footnoteSeqID="2">Despite the exceptional circumstances faced by the aviation industry and ICAO during the data collection and collation period, data officially provided by ICAO Member States reflects 97% of the data reported here, with the remainder calculated according to ICAOâ€™s methodology.</footnote>
+    </footnotes>
+</ROOT>

@@ -1,0 +1,488 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2020</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2019</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2018</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2017</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2016</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2015</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">Im</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2014</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2013</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2012</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2011</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2010</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2009</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2008</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2007</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2006</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2005</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2004</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2003</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2002</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2001</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">2000</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1999</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1998</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1997</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1996</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1995</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1994</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1993</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1992</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1991</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1990</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1989</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1988</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1987</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1986</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">5.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1985</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">4.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1984</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1983</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1982</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1981</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1980</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1979</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1978</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1977</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1976</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1975</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1974</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1973</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1972</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1971</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">3.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1970</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1969</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1968</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1967</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1966</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1965</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1964</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1963</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1962</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Element">Stocks</field>
+            <field name="Year">1961</field>
+            <field name="Unit">1000 Head</field>
+            <field name="Value">2.00</field>
+            <field name="Value Footnotes">F</field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote fnSeqID="F">FAO estimate</footnote>
+        <footnote fnSeqID="Im">FAO data based on imputation methodology</footnote>
+    </footnotes>
+</ROOT>
