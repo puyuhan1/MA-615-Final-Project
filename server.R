@@ -17,6 +17,7 @@ library(xml2)
 library(readxl)
 library(dplyr)
 library(rsconnect)
+library(DT)
 #for general description#
 nauru_coords <- c(166.9315, -0.5228)  # Longitude, Latitude
 world_map_plot <- ggplot() +
@@ -474,9 +475,9 @@ function(input, output) {
                 h4("Key Demographics"),
                 textOutput("Key Demographics"),
                 tabsetPanel(
-                    tabPanel("Population Rate", plotOutput("annualplot"),HTML("<div style='padding-top: 10px;'>The plot shows that the average annual rate of population is decreasing, which indicates that the population on this island is going to shrink until totally disappear if we don't do anything to change this situation.</div>")),
-                    tabPanel("Life Expectancy", plotOutput("lifeexpectplot"),HTML("<div style='padding-top: 10px;'>The plot shows that the annual life expectancy is increasing, which reflects overall improvements in the socio-economic and health conditions of a country. It suggests that on average, people are living longer, healthier lives than in previous generations..</div>")),
-                    tabPanel("Total Fertility Rate for Women",plotOutput("fertilityplot"),HTML("<div style='padding-top: 10px;'>The plot shows that the annual Total fertility rate for women is decreasing, which reflects overall improvements in the health conditions for women here. It suggests that the living condition is better.</div>"))
+                    tabPanel("Population Rate", plotOutput("annualplot"),dataTableOutput("myTablePop"),HTML("<div style='padding-top: 10px;'>The plot shows that the average annual rate of population is decreasing, which indicates that the population on this island is going to shrink until totally disappear if we don't do anything to change this situation.</div>")),
+                    tabPanel("Life Expectancy", plotOutput("lifeexpectplot"),dataTableOutput("myTablelife"),HTML("<div style='padding-top: 10px;'>The plot shows that the annual life expectancy is increasing, which reflects overall improvements in the socio-economic and health conditions of a country. It suggests that on average, people are living longer, healthier lives than in previous generations..</div>")),
+                    tabPanel("Total Fertility Rate for Women",plotOutput("fertilityplot"),dataTableOutput("myTablefert"),HTML("<div style='padding-top: 10px;'>The plot shows that the annual Total fertility rate for women is decreasing, which reflects overall improvements in the health conditions for women here. It suggests that the living condition is better.</div>"))
                 ),
             )
         } else if (input$category == "Comparison") {
@@ -519,7 +520,9 @@ function(input, output) {
     })
     
     output$worldMap <- renderPlot({ world_map_plot })
-    
+    output$myTablePop <- renderDT({DT::datatable(head(annual))})
+    output$myTablelife <- renderDT({DT::datatable(head(lifeexpect))})
+    output$myTablefert <- renderDT({DT::datatable(head(fertility))})
     output$nauruLeafletMap <- renderLeaflet({ leaflet_nauru_map })
     output$annualplot <- renderPlot({ annualplot })
     output$lifeexpectplot <- renderPlot({ lifeexpectplot })
